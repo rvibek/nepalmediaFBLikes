@@ -1,0 +1,22 @@
+name,likeCount  
+Annapurna Post,282321  
+Gorkhapatra Online,147636  
+Himal Khabarpatrika,99894  
+eKantipur,1446708  
+Karobar Business Daily,158501  
+Khabarpati,4897  
+Mysansar,57481  
+NagarikNews,913145  
+NEPAL Magazine,5215  
+Nepali Times,10707  
+Nepal News,3312  
+OnlineKhabar,450413  
+ReportersNepal.com,5515  
+re:publica,19000  
+Kantipur SAPTAHIK,450453  
+Setopati,146554  
+New Spotlight Magazine,1572  
+The Himalayan Times,25420  
+The Kathmandu Post,46544  
+WAVE,51201  
+Weekly Nepal,13189 
